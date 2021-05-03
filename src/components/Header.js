@@ -2,7 +2,7 @@
 
 import React from 'react'
 
-function Header() {
+function Header() { // functioned was automatically named Header because of file name
     return (
         <div>
             <header>Header</header>
