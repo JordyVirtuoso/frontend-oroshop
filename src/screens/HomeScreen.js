@@ -9,7 +9,8 @@ function HomeScreen() {
             <Row>
                 {products.map(product => (
                     // coloumn size varies depending on display
-                    <Col sm={12} md={6} lg={4} xl={3}>
+                    // id of the product is added to key else error
+                    <Col key={product._id} sm={12} md={6} lg={4} xl={3}>
                     <h3>{product.name}</h3>
                     </Col>
                 ))}
