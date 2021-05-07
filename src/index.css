@@ -1,3 +1,11 @@
 main{
   min-height: 80vh; /* specify size of view so footer can show at bottom */
 }
+
+h3{
+  padding: 1rem 0;
+}
+
+.rating span{
+  margin:0.1rem;
+}
