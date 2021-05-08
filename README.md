@@ -4,4 +4,4 @@ built from DennisIvy/Traversy Proshop
 
 ## Information
 
-Work in Progress
+frontend v0.1 for https://github.com/JordyVirtuoso/wholeshop
